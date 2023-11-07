@@ -1,4 +1,4 @@
-21958358889653982
+21963456991360783
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54608,6 +54608,27 @@ Through hole pin header THT 1x02 1.00mm single row
 2
 GT Controller
 Switch Type 2
+Through hole straight pin header, 1x02, 1.00mm pitch, single row
+Through hole pin header THT 1x02 1.00mm single row
+0
+2
+2
+GT Controller
+Switch Type 3
+Through hole straight pin header, 1x02, 1.00mm pitch, single row
+Through hole pin header THT 1x02 1.00mm single row
+0
+2
+2
+GT Controller
+Switch Type 4
+Through hole straight pin header, 1x02, 1.00mm pitch, single row
+Through hole pin header THT 1x02 1.00mm single row
+0
+2
+2
+GT Controller
+Switch Type 5
 Through hole straight pin header, 1x02, 1.00mm pitch, single row
 Through hole pin header THT 1x02 1.00mm single row
 0
