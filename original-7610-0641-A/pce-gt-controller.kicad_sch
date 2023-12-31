@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "PC Engine GT Controller PCB")
-    (date "2023-11-06")
-    (rev "1.0")
+    (title "PC Engine GT Controller PCB (Original)")
+    (date "2023-12-31")
+    (rev "1.1")
     (company "The Board Folk Team")
   )
 
