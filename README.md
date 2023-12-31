@@ -74,4 +74,4 @@ of merchantability and fitness for a particular purpose.
 
 [IBOM-Original]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/PC-Engine-GT-Controller/main/original-7610-0641-A/bom/PC%20Engine%20GT%20Controller%20PCB.html
 
-[IBOM-Original]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/PC-Engine-GT-Controller/main/remaster/bom/PC%20Engine%20GT%20Controller%20BOM.html
+[IBOM-Remaster]: http://htmlpreview.github.io/?https://raw.githubusercontent.com/Board-Folk/PC-Engine-GT-Controller/main/remaster/bom/PC%20Engine%20GT%20Controller%20BOM.html
