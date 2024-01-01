@@ -3,18 +3,19 @@ This repository contains a recreation and a remaster of the
 controller board PCB for PC Engine GT Handheld.
 
 #### Original Controller PCB
-![PCB-Original](images/PCGT-Front-Original-small.png)
+![PCB-Original](images/PCEGT-Original-small.png)
 
 The original recreation is based on the reverse engineering of the original
 PCB and schematics using scanned images of the original
 board's copper layers, so should be a reasonably accurate reproduction.
 
 #### Remaster Controller PCB
-![PCB-Remaster](images/PCGT-Front-Remaster-small.png)
+![PCB-Remaster](images/PCEGT-Remaster-small.png)
 
 The remaster is based on the schematics of the pc engine controller which
 uses logic chips to control the user input into the GT Handheld.
-Some functionality is lost using this board, such as using the Link Cable.
+Some functionality is lost using this board, such as using the Link Cable and
+no sleep functionality for the screen.
 
 
 ## PCB Production
